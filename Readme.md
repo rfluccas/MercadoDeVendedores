@@ -1,3 +1,3 @@
-Este sitio web permite la compra de votos para que vuestro proyecto sea aprobado.
+Este sitio web permite la compra de votos para que vuestro Proyecto de Ley sea aprobado.
 
-La idea es que cada imagen represente a una persona para escogerla y comprarle un voto. De momento no está hecho pero cada imagen debería tener el nombre de una persona debajo para que quien va a comprar sepa qué está comprando.
+Cada imagen representa a una persona (un legislador) que puede ser escogida para comprarle un voto.
